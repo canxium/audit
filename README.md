@@ -1,2 +1,3 @@
-# audit
+# Audit
 This repo will be used for audit information: contract, finance....
+1. We will move finance audit from [Finance](https://docs.google.com/spreadsheets/d/1iQ2mbSfbfXdZ04u_3EKfClhN7a0fhdNJ6kMxZxctZiE/edit?usp=sharing) to this repo soon.
